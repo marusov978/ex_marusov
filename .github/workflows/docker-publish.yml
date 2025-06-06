@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: aleksandr978/ex_marusov:latest
+        tags: aleksandr978/ex_marusov:zadanie_0
